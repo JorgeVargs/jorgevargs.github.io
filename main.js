@@ -926,7 +926,7 @@ class WorkExperienceComponent {
     }, {
       logo: "./assets/images/valenetwork.jpg",
       puesto: "Programador Web",
-      periodo: "2020 - Actual",
+      periodo: "2020 - 2024",
       descripcion: "Maquetación e integración de sitios web. Creación de maillings y configuración de los mismos."
     }, {
       logo: "./assets/images/clickspublicitarios.jpg",
